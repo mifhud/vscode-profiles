@@ -1,0 +1,2 @@
+Note:
+- In Java Profiles: Please remove the Spring Extension Pack extension first to avoid errors when importing the profile
